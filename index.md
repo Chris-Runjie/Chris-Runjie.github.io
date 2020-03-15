@@ -13,7 +13,7 @@ Str.Yudao, Nanjing, Jiangsu, China, 210016
 (1) Nanjing University of Aeronautics and Astronautics; Undergraduate Student in Finance; GPA80+/100; Top 10/160.
 
 * Core Courses: Advanced Mathematics, Calculus, Linear Algebra, Financial Markets, Securities Investment, Accounting, Central Banks, Commercial Banks ...
-* Minor Courses: Neural Networks and Deep Learning [https://www.coursera.org/account/accomplishments/certificate/LJURD5379BZA](https://www.coursera.org/account/accomplishments/certificate/LJURD5379BZA).
+* Minor Courses: Neural Networks and Deep Learning [From Coursera.org](https://www.coursera.org/account/accomplishments/certificate/LJURD5379BZA).
 
 (2) Cambridge University 2019 Summer Program: Artificial Intelligence and Deep Learning.
 
