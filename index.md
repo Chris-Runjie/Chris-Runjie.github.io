@@ -29,7 +29,7 @@ Str.Yudao, Nanjing, Jiangsu, China, 210016
 
 * Paper: Risk Fluctuation Characteristics of Internet Finance: Combining Industry Characteristics with Ecological Value, Submission, (Co-first author, [arXiv:2001.09798](https://arxiv.org/abs/2001.09798))
 
-* Systemic Risk Clustering of China Internet Financial Based on t-SNE Machine Learning Algorithm, the 12th Annual International Conference on Global Studies: Business, Economic, Political, Social and Cultural Aspects (Tutor First Author, [arXiv:1909.03808](https://arxiv.org/abs/1909.03808)).
+* Conference Paper：Systemic Risk Clustering of China Internet Financial Based on t-SNE Machine Learning Algorithm, the 12th Annual International Conference on Global Studies: Business, Economic, Political, Social and Cultural Aspects (Tutor First Author, [arXiv:1909.03808](https://arxiv.org/abs/1909.03808)).
 
 ### Certificates of Skills/Honor
 
