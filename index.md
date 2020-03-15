@@ -49,6 +49,8 @@ Str.Yudao, Nanjing, Jiangsu, China, 210016
 * Conference Paper：Systemic Risk Clustering of China Internet Financial Based on t-SNE Machine Learning Algorithm, the 12th Annual International Conference on Global Studies: Business, Economic, Political, Social and Cultural Aspects (Tutor First Author)
   
   [arXiv:1909.03808](https://arxiv.org/abs/1909.03808)).
+  
+ * Blog posts: [Machine Lawyering, Centre for Financial Regulation and Economic Development](https://www.legalanalytics.law.cuhk.edu.hk/post/2019/10/16/complex-network-construction-of-internet-finance-risk)
 
 
 
