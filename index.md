@@ -1,37 +1,67 @@
-## Welcome to GitHub Pages
+## Runjie Xu (Chris)
 
-You can use the [editor on GitHub](https://github.com/Chris-Runjie/Chris-Runjie.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Str.Yudao, Nanjing, Jiangsu, China, 210016 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
++86-18792013677
 
-### Markdown
+lilipota123@gmail.com 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Education
 
-```markdown
-Syntax highlighted code block
+(1) Nanjing University of Aeronautics and Astronautics; Undergraduate Student in Finance; GPA80+/100; Top 10/160.
 
-# Header 1
-## Header 2
-### Header 3
+* Core Courses: Advanced Mathematics, Calculus, Linear Algebra, Financial Markets, Securities Investment, Accounting, Central Banks, Commercial Banks ...
+* Minor Courses:  [Neural Networks and Deep Learning](https://www.coursera.org/account/accomplishments/certificate/LJURD5379BZA).
 
-- Bulleted
-- List
+(2) Cambridge University 2019 Summer Program: Artificial Intelligence and Deep Learning.
 
-1. Numbered
-2. List
+(3) Research Assistant: National Social Science Fund of China (17BGL055).
 
-**Bold** and _Italic_ and `Code` text
+### Research
 
-[Link](url) and ![Image](src)
-```
+* Paper：Complex Network Construction of Internet Finance Risk, Physica A, (First Author, [doi.org/10.1016/j.physa.2019.122930](https://www.sciencedirect.com/science/article/pii/S0378437119316619)).
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+* Chinese Paper: Analysis of Internet Financial Spatial Aggregation and Systematic Risk Prevention, (Tutor First Author, [doi.10.13762/j.cnki.cjlc.2019.08.005](https://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFQ&dbname=CJFDLAST2019&filename=CJLC201908007&v=MDc0NDk5ak1wNDlGWTRSOGVYMUx1eFlTN0RoMVQzcVRyV00xRnJDVVI3cWZadVZ2RnlIbVU3L0JKaWZIYmJHNEg=)).
 
-### Jekyll Themes
+* Conference Paper：Real-time Recognition of Smartphone User Behavior Based on Prophet Algorithms, the 4th International Conferenceon Ambient Intelligence and Ergonomics in Asia, (Tutor First Author, [arXiv：1909.08997](https://arxiv.org/abs/1909.08997)).
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Chris-Runjie/Chris-Runjie.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+* Paper：An active smartphone authentication method based on daily cyclical activity, Submission, (Co-first author, [arXiv:1909.00045](https://arxiv.org/abs/1909.00045)).
 
-### Support or Contact
+* Paper: Risk Fluctuation Characteristics of Internet Finance: Combining Industry Characteristics with Ecological Value, Submission, (Co-first author, [arXiv:2001.09798](https://arxiv.org/abs/2001.09798))
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+* Systemic Risk Clustering of China Internet Financial Based on t-SNE Machine Learning Algorithm, the 12th Annual International Conference on Global Studies: Business, Economic, Political, Social and Cultural Aspects (Tutor First Author, [arXiv:1909.03808](https://arxiv.org/abs/1909.03808)).
+
+### Certificates of Skills/Honor
+
+* China E-commerce Big Data Analyst (CBEC04S0010056B)
+
+* China Software Copyright (2019SR0891593)
+
+* Securities Investment Analyst -- China High-tech Professional Talent Training Project (NPAP7341903501835)
+
+* Financial Planner -- China High-tech Professional Talent Training Project (NPAP7341911303823)
+
+* Merit Student
+
+* “ZhiHu” Campus Ambassador
+
+### Activity
+
+* The 4th International Conferenceon Ambient Intelligence and Ergonomics in Asia, October, 2019, Taiwan (Oral Presentation, Excellent Paper Award).
+
+* 2019 Fintech Academic Innovation Forum for Postgraduates in Jiangsu Province, December, 2019, China (Oral Presentation, Excellent Paper Award).
+
+* The 12th Annual International Conference on Global Studies: Business, Economic, Political, Social and Cultural Aspects, Greece.
+
+* Outstanding Leadership: China E-Commerce Innovation and Entrepreneurship Competition (National Second Prize, Provincial First Prize) .
+
+* Outstanding Volunteer: China National Children's Reading Conference.
+
+* Outstanding Student of “IBM” & “ICBC” Fintech Summer Camp.
+
+### Skills/Interests
+* Programming: Python, Matlab, Java, etc
+
+* Mathematic Theory: Digital Economy, Finance Risk, Network Science, Machine Learning. 
+
+* Other: Think Different
