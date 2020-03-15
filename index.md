@@ -62,6 +62,6 @@ Str.Yudao, Nanjing, Jiangsu, China, 210016
 ### Skills/Interests
 * Programming: Python, Matlab, Java, etc
 
-* Mathematic Theory: Digital Economy, Finance Risk, Network Science, Machine Learning. 
+* Research Direction: Digital Economy, Finance Risk, Network Science, Machine Learning. 
 
 * Other: Think Different
