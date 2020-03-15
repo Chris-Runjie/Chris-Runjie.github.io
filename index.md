@@ -68,6 +68,7 @@ Str.Yudao, Nanjing, Jiangsu, China, 210016
 * Outstanding Student of “IBM” & “ICBC” Fintech Summer Camp.
 
 ### Skills/Interests
+
 * Programming: Python, Matlab, Java, etc
 
 * Research Direction: Digital Economy, Finance Risk, Network Science, Machine Learning. 
