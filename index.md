@@ -10,11 +10,11 @@ Str.Yudao, Nanjing, Jiangsu, China, 210016
 
 
 
-# Education
+## Education
 
 * Nanjing University of Aeronautics and Astronautics; Undergraduate Student in Finance; GPA80+/100; Top 10/160.
 
- Minor Courses: Neural Networks and Deep Learning [From Coursera.org.](https://www.coursera.org/account/accomplishments/certificate/LJURD5379BZA).
+* Minor Courses: Neural Networks and Deep Learning [From Coursera.org.](https://www.coursera.org/account/accomplishments/certificate/LJURD5379BZA).
 
 * Cambridge University 2019 Summer Program: Artificial Intelligence and Deep Learning.
 
@@ -22,7 +22,7 @@ Str.Yudao, Nanjing, Jiangsu, China, 210016
 
 
 
-### Research
+## Research
 
 * Paper：Complex Network Construction of Internet Finance Risk, Physica A, (First Author)
 [doi.org/10.1016/j.physa.2019.122930](https://www.sciencedirect.com/science/article/pii/S0378437119316619)).
@@ -44,7 +44,7 @@ Str.Yudao, Nanjing, Jiangsu, China, 210016
 
 
 
-### Certificates of Skills/Honor
+## Certificates of Skills/Honor
 
 * China E-commerce Big Data Analyst (CBEC04S0010056B)
 
@@ -60,7 +60,7 @@ Str.Yudao, Nanjing, Jiangsu, China, 210016
 
 
 
-### Activity
+## Activity
 
 * The 4th International Conferenceon Ambient Intelligence and Ergonomics in Asia, October, 2019, Taiwan (Oral Presentation, Excellent Paper Award).
 
@@ -76,7 +76,7 @@ Str.Yudao, Nanjing, Jiangsu, China, 210016
 
 
 
-### Skills/Interests
+## Skills/Interests
 
 * Programming: Python, Matlab, Java, etc.
 
