@@ -1,6 +1,6 @@
 ## Runjie Xu (Chris)
 
-![Image of Runjie](https://github.com/Chris-Runjie/Chris-Runjie.github.io/blob/master/%E5%B0%8F%E4%BA%86.jpg)
+![Image of Runjie](https://Chris-Runjie.github.io/Runjie.jpg)
 
 Str.Yudao, Nanjing, Jiangsu, China, 210016 
 
