@@ -11,7 +11,7 @@ Str.Yudao, Nanjing, Jiangsu, China, 210016
 
 
 ### Education
-
+{
 * Nanjing University of Aeronautics and Astronautics; Undergraduate Student in Finance; GPA80+/100; Top 10/160.
 
 * Minor Courses: Neural Networks and Deep Learning [From Coursera.org.](https://www.coursera.org/account/accomplishments/certificate/LJURD5379BZA).
@@ -19,7 +19,7 @@ Str.Yudao, Nanjing, Jiangsu, China, 210016
 * Cambridge University 2019 Summer Program: Artificial Intelligence and Deep Learning.
 
 * Research Assistant: National Social Science Fund of China (17BGL055).
-
+}
 
 
 ### Research
