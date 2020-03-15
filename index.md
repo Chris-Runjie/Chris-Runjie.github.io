@@ -25,7 +25,7 @@ Str.Yudao, Nanjing, Jiangsu, China, 210016
 
 * Conference Paper：Real-time Recognition of Smartphone User Behavior Based on Prophet Algorithms, the 4th International Conferenceon Ambient Intelligence and Ergonomics in Asia, (Tutor First Author, [arXiv：1909.08997](https://arxiv.org/abs/1909.08997)).
 
-* Paper：An active smartphone authentication method based on daily cyclical activity, Submission, (Co-first author, [arXiv:1909.00045](https://arxiv.org/abs/1909.00045)).
+* Paper：An active smartphone authentication method based on daily cyclical activity, Submission, (First author, [arXiv:1909.00045](https://arxiv.org/abs/1909.00045)).
 
 * Paper: Risk Fluctuation Characteristics of Internet Finance: Combining Industry Characteristics with Ecological Value, Submission, (Co-first author, [arXiv:2001.09798](https://arxiv.org/abs/2001.09798))
 
