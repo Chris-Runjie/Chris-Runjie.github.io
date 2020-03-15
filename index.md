@@ -8,16 +8,20 @@ Str.Yudao, Nanjing, Jiangsu, China, 210016
 
 ![Image of Runjie](https://Chris-Runjie.github.io/Runjie1.jpg)
 
+
+
 ### Education
 
 (1) Nanjing University of Aeronautics and Astronautics; Undergraduate Student in Finance; GPA80+/100; Top 10/160.
 
 * Core Courses: Advanced Mathematics, Calculus, Linear Algebra, Financial Markets, Securities Investment, Accounting, Central Banks, Commercial Banks ...
-* Minor Courses: Neural Networks and Deep Learning [From Coursera.org](https://www.coursera.org/account/accomplishments/certificate/LJURD5379BZA).
+* Minor Courses: Neural Networks and Deep Learning [From Coursera.org.](https://www.coursera.org/account/accomplishments/certificate/LJURD5379BZA).
 
 (2) Cambridge University 2019 Summer Program: Artificial Intelligence and Deep Learning.
 
 (3) Research Assistant: National Social Science Fund of China (17BGL055).
+
+
 
 ### Research
 
@@ -39,6 +43,8 @@ Str.Yudao, Nanjing, Jiangsu, China, 210016
 * Conference Paper：Systemic Risk Clustering of China Internet Financial Based on t-SNE Machine Learning Algorithm, the 12th Annual International Conference on Global Studies: Business, Economic, Political, Social and Cultural Aspects (Tutor First Author)
 [arXiv:1909.03808](https://arxiv.org/abs/1909.03808)).
 
+
+
 ### Certificates of Skills/Honor
 
 * China E-commerce Big Data Analyst (CBEC04S0010056B)
@@ -52,6 +58,8 @@ Str.Yudao, Nanjing, Jiangsu, China, 210016
 * Merit Student
 
 * “ZhiHu” Campus Ambassador
+
+
 
 ### Activity
 
@@ -67,10 +75,12 @@ Str.Yudao, Nanjing, Jiangsu, China, 210016
 
 * Outstanding Student of “IBM” & “ICBC” Fintech Summer Camp.
 
+
+
 ### Skills/Interests
 
-* Programming: Python, Matlab, Java, etc
+* Programming: Python, Matlab, Java, etc.
 
 * Research Direction: Digital Economy, Finance Risk, Network Science, Machine Learning. 
 
-* Other: Think Different
+* Other: Think Different.
