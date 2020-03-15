@@ -1,10 +1,8 @@
 ## Runjie Xu (Chris)
 
 Str.Yudao, Nanjing, Jiangsu, China, 210016 
++86-18792013677, lilipota123@gmail.com 
 
-+86-18792013677
-
-lilipota123@gmail.com 
 ![Image of Runjie](https://Chris-Runjie.github.io/Runjie.jpg)
 
 ### Education
