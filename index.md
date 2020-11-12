@@ -4,8 +4,6 @@ Str.Yudao, Nanjing, Jiangsu, China, 210016
 
 +86-18792013677, lilipota123@gmail.com 
 
- [如果你需要中文，请点击这里](https://chris-runjie.github.io/Xu/)
-
 ![Image of Runjie](https://Chris-Runjie.github.io/Runjie1.jpg)
 
 
