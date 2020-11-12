@@ -22,6 +22,8 @@ Str.Yudao, Nanjing, Jiangsu, China, 210016
 
 * Research Assistant: National Social Science Fund of China (17BGL055).
 
+* R&d engineer: Boya Blockchain Research Institute.
+
 
 
 ## Research
@@ -42,9 +44,13 @@ Str.Yudao, Nanjing, Jiangsu, China, 210016
   
   [arXiv:1909.00045](https://arxiv.org/abs/1909.00045)).
 
-* Paper: Risk Fluctuation Characteristics of Internet Finance: Combining Industry Characteristics with Ecological Value, Submission, (Co-first author) 
-  
+* Paper: Risk Fluctuation Characteristics of Internet Finance: Combining Industry Characteristics with Ecological Value, ICSS2020, Accept As Is, presentation at the meeting (Co-first author) 
+
   [arXiv:2001.09798](https://arxiv.org/abs/2001.09798))
+
+* Paper: Risk assessment indicators for technology enterprises: From the perspective of complex networks, ICSS2020, Accept with Minor Changes(First author)
+  
+* Paper: Social Relations Under The Covid-19 Epidemic: Government Policies, Media Statements And Public Moods, ICSS2020, Accept with Minor Changes(Corresponding author)
 
 * Conference Paper：Systemic Risk Clustering of China Internet Financial Based on t-SNE Machine Learning Algorithm, the 12th Annual International Conference on Global Studies: Business, Economic, Political, Social and Cultural Aspects (Tutor First Author)
   
@@ -77,6 +83,8 @@ Str.Yudao, Nanjing, Jiangsu, China, 210016
 * 2019 Fintech Academic Innovation Forum for Postgraduates in Jiangsu Province, December, 2019, China (Oral Presentation, Excellent Paper Award).
 
 * The 12th Annual International Conference on Global Studies: Business, Economic, Political, Social and Cultural Aspects, Greece.
+
+* 2020 Informs Conference on Service Science.
 
 * Outstanding Leadership: China E-Commerce Innovation and Entrepreneurship Competition (National Second Prize, Provincial First Prize) .
 
