@@ -10,7 +10,7 @@ Str.Yudao, Nanjing, Jiangsu, China, 210016
 
 ## Education
 
-* Nanjing University of Aeronautics and Astronautics; Undergraduate Student in Finance; GPA80+/100; Top 10/160.
+* Nanjing University of Aeronautics and Astronautics; Undergraduate Student in Finance; GPA80+/100.
 
 * Minor Courses: Neural Networks and Deep Learning 
   
@@ -20,7 +20,7 @@ Str.Yudao, Nanjing, Jiangsu, China, 210016
 
 * Research Assistant: National Social Science Fund of China (17BGL055).
 
-* R&d engineer: Boya Blockchain Research Institute.
+* R&d Engineer: Boya Blockchain Research Institute.
 
 
 
@@ -48,12 +48,14 @@ Str.Yudao, Nanjing, Jiangsu, China, 210016
 
 * Paper: Risk assessment indicators for technology enterprises: From the perspective of complex networks, ICSS2020, Accept with Minor Changes(First author)
   
-* Paper: Social Relations Under The Covid-19 Epidemic: Government Policies, Media Statements And Public Moods, ICSS2020, Accept with Minor Changes(Corresponding author)
+* Paper: Social Relations Under The Covid-19 Epidemic: Government Policies, Media Statements And Public Moods, ICSS2020, Accept with Minor Changes(Corresponding author, Best conference paper)
 
 * Conference Paper：Systemic Risk Clustering of China Internet Financial Based on t-SNE Machine Learning Algorithm, the 12th Annual International Conference on Global Studies: Business, Economic, Political, Social and Cultural Aspects (Tutor First Author)
   
   [arXiv:1909.03808](https://arxiv.org/abs/1909.03808)).
   
+* Paper: Risk Fluctuation Characteristics of Internet Finance, Economic Research-Ekonomska Istraživanja, Submission, (Co-first Author).  
+
  * Blog posts: [Machine Lawyering, Centre for Financial Regulation and Economic Development](https://www.legalanalytics.law.cuhk.edu.hk/post/2019/10/16/complex-network-construction-of-internet-finance-risk)
 
 
@@ -90,12 +92,3 @@ Str.Yudao, Nanjing, Jiangsu, China, 210016
 
 * Outstanding Student of “IBM” & “ICBC” Fintech Summer Camp.
 
-
-
-## Skills/Interests
-
-* Programming: Python, Matlab, Java, etc.
-
-* Research Direction: Digital Economy, Finance Risk, Network Science, Machine Learning. 
-
-* Other: Think Different.
